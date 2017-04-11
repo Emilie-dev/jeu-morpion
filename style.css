@@ -1,0 +1,18 @@
+h1 {
+	text-align: center;
+	color: purple;
+}
+
+table  {
+height:90%;
+width:90%;
+border-collapse: collapse;
+margin:auto;
+vertical-align:middle;
+}
+
+.cells {
+	border-style:solid;
+	width:33%;
+	height:33%;
+}
